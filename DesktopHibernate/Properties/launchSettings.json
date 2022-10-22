@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DesktopHibernate": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
